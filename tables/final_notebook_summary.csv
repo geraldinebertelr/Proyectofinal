@@ -1,0 +1,12 @@
+item,value
+selected_model,Logistic_SMOTE
+feature_selection_strategy,RandomForest top 30
+best_threshold_by_cost,0.4
+internal_cost_default_threshold,11250
+internal_cost_best_threshold,10580
+official_cost_default_threshold,21980
+official_cost_best_threshold,19520
+official_precision_pos_best_threshold,0.38598442714126807
+official_recall_pos_best_threshold,0.9253333333333333
+official_f1_pos_best_threshold,0.5447409733124019
+most_important_feature,aa_000

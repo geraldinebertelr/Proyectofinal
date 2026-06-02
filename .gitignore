@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/processed/*.csv
+models/*.joblib
+reports/*.txt
+notebooks/catboost_info/
+*.ipynb_checkpoints
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
